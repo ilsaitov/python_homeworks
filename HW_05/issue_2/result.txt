@@ -1,0 +1,14 @@
+================================================================= test session starts ==================================================================
+platform darwin -- Python 3.8.5, pytest-6.2.1, py-1.10.0, pluggy-0.13.1 -- /Users/administrator/venv/bin/python
+cachedir: .pytest_cache
+rootdir: /Users/administrator/PycharmProjects/ohmyduck
+plugins: cov-2.10.1
+collected 5 items                                                                                                                                      
+
+morse.py::test_decode[.... . .-.. .-.. ----HELLO] PASSED                                                                                         [ 20%]
+morse.py::test_decode[- ----TO] PASSED                                                                                                           [ 40%]
+morse.py::test_decode[.- ...- .. - ----AVITO] PASSED                                                                                             [ 60%]
+morse.py::test_decode[..-. .-. --- ---FROM] PASSED                                                                                               [ 80%]
+morse.py::test_decode[.. .-.. -- .. .-.-ILMIR] PASSED                                                                                            [100%]
+
+================================================================== 5 passed in 0.04s ===================================================================
