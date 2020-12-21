@@ -95,10 +95,6 @@ corpus = [
     'Crock Pot Pasta Never boil pasta again',
     'Pasta Pomodoro Fresh ingredients Parmesan to taste'
 ]
-
-
-
-
 if __name__ == '__main__':
     vectorizer = CountVectorizer()
     count_matrix = vectorizer.fit_transform(corpus)
