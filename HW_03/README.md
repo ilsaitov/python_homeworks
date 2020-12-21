@@ -1,1 +1,0 @@
-Hub for python homeworks
